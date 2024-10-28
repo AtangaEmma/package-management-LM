@@ -16,13 +16,14 @@
 ``` sh
 # change hostname to tomcat
 sudo hostnamectl set-hostname tomcat
-sudo su - ec2-user
+#sudo su - ec2-user
 cd /opt 
 # install Java JDK 1.8+ as a pre-requisit for tomcat to run.
 sudo yum install git wget -y
-sudo yum install java-1.8.0-openjdk-devel -y
+sudo yum install java-11 -y
 # install wget unzip packages.
 sudo yum install wget unzip -y
+/bin/bash
 ```
 ## Install Tomcat version 9.0.83
 ### Download and extract the tomcat server
