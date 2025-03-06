@@ -26,7 +26,9 @@ Highly motivated and results-oriented Senior Cloud Infrastructure Engineer with 
 **Experience**
 
 **SENIOR CLOUD INFRASTRUCTURE ENGINEER**
+
 **SOLAVISE TECHNOLOGIES INSTITUTE: 2022-PRESENT**
+
 **VIRGINIA, USA - REMOTE** 
 
 *   Led the migration of [application name] to AWS, resulting in a 30% reduction in infrastructure costs and a 20% improvement in application performance by leveraging auto-scaling and serverless technologies.
@@ -41,7 +43,9 @@ Highly motivated and results-oriented Senior Cloud Infrastructure Engineer with 
 
 
 **Cloud Engineer BOOTCAMP**
+
 **JJTECH INC: 2021-2022**
+
 **MARYLAND, USA - REMOTE**
 
 *   Assisted in the design and implementation of cloud infrastructure on AWS, including Networking, Compute, Storage, Databases, Management and Governance.
@@ -50,7 +54,9 @@ Highly motivated and results-oriented Senior Cloud Infrastructure Engineer with 
 *   Contributed to the development of security policies and procedures for cloud environments.
 
 **CUSTOMER SERVICE**
+
 **BUCKEYE HEALTH PLAN:2018-PRESENT**
+
 **COLUMBUS, OHIO, USA - REMOTE**
 
 *   Resolved an average of 50+ complex customer inquiries daily regarding benefits, eligibility, claims, and authorizations, consistently exceeding performance metrics for call resolution and customer satisfaction.
