@@ -50,8 +50,8 @@ Highly motivated and results-oriented Senior Cloud Infrastructure Engineer with 
 *   Contributed to the development of security policies and procedures for cloud environments.
 
 **CUSTOMER SERVICE**
-**BUCKEYE HEALTH PLAN:2018-PRESENT
-**COLUMBUS, OHIO, USA - REMOTE
+**BUCKEYE HEALTH PLAN:2018-PRESENT**
+**COLUMBUS, OHIO, USA - REMOTE**
 
 *   Resolved an average of 50+ complex customer inquiries daily regarding benefits, eligibility, claims, and authorizations, consistently exceeding performance metrics for call resolution and customer satisfaction.
 *   Reduced call escalation rates by 15% by proactively identifying and addressing underlying customer concerns and providing clear, accurate information.
