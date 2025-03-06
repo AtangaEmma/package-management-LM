@@ -1,5 +1,4 @@
-
-                                 **Adisa Amadu**
+**Adisa Amadu**
 +1 6095168841 || loisamadu@ymail.com || 5975 Bears Run road  Columbus ,Ohio 43232 
 
 
